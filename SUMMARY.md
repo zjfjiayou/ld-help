@@ -1,5 +1,5 @@
 # Summary
 
-* [hello word](README.md)
-* [test](test.md)
+* [好队友简介](README.md)
+* [新手入门](test.md)
 
