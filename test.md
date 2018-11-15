@@ -30,9 +30,7 @@
 
 ![](http://livedoc.oss-cn-hangzhou.aliyuncs.com/livedoc/f01565d99850e0afacfbda31e7979794?x-oss-process=image/format,gif)
 
-#### 5.如何授权给我的数据表？
+#### 6.如何查看授权给我的数据表？
 
-管理员
-
-
+数据表创建者授权给您的数据表，在您的【授权给我的数据表】栏目中查看![](/assets/import.png)
 
