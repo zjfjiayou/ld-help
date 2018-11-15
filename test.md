@@ -18,11 +18,11 @@
 
 #### 3.如何设置数据表权限管理？
 
-根据业务流程，将数据表权限分配给不同的部门，各个部门分别录入相关数据，汇总成一个完成的数据表。
+根据业务流程，将数据表权限分配给不同的部门，各个部门分别录入相关数据，汇总成一个完成的数据表。![](http://livedoc.oss-cn-hangzhou.aliyuncs.com/livedoc/ec75edd118de7a4719cc8d6fd4f1951c?x-oss-process=image/format,gif)
 
 #### 4.如何录入数据？
 
-各个部门分别录入相关数据，数据自动汇总到整个数据表。可对单条数据进行编写权限设置。
+各个部门分别录入相关数据，数据自动汇总到整个数据表。可对单条数据进行编写权限设置。![](http://livedoc.oss-cn-hangzhou.aliyuncs.com/livedoc/5da1b01a0b2cb55cdcd77a9e0f8e9cda?x-oss-process=image/format,gif)
 
 #### 5.需要分析什么数据？
 
