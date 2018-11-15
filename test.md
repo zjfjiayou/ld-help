@@ -28,7 +28,11 @@
 
 根据数据选择不同的分析维度，好队友可以自动生成数据统计报表。
 
-## 
+![](http://livedoc.oss-cn-hangzhou.aliyuncs.com/livedoc/f01565d99850e0afacfbda31e7979794?x-oss-process=image/format,gif)
+
+#### 5.如何授权给我的数据表？
+
+管理员
 
 
 
