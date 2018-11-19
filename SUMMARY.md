@@ -2,9 +2,9 @@
 
 * [好队友简介](README.md)
 * [快速入门-数据表](test.md)
+* [新建数据表](shu-ju-biao-she-ji/xin-jian-shu-ju-biao.md)
 * [快速入门-云文件](kuai-su-ru-95e8-yun-wen-jian.md)
 * [数据表设计](shu-ju-biao-she-ji.md)
-  * [新建数据表](shu-ju-biao-she-ji/xin-jian-shu-ju-biao.md)
   * [基础字段类型](shu-ju-biao-she-ji/zi-duan.md)
   * [计算公式](shu-ju-biao-she-ji/ji-suan-gong-shi.md)
   * [工作人员](shu-ju-biao-she-ji/gao-ji-zi-duan-lei-xing.md)
