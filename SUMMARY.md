@@ -6,17 +6,5 @@
 * [新建数据表](shu-ju-biao-she-ji/xin-jian-shu-ju-biao.md)
 * [字段类型](shu-ju-biao-she-ji/zi-duan.md)
   * [基础字段](shu-ju-biao-she-ji/zi-duan/ji-chu-zi-duan.md)
-* [数据表权限设置](shu-ju-biao-quan-xian.md)
-* [数据录入](shu-ju-biao-lu-ru.md)
-  * [录入数据](shu-ju-biao-lu-ru/lu-ru-shu-ju.md)
-  * [编辑修改数据](shu-ju-biao-lu-ru/bian-ji-shu-ju.md)
-* [数据查看](cha-kan-shu-ju-biao.md)
-  * [筛选字段](cha-kan-shu-ju-biao/shai-xuan-zi-duan.md)
-  * [数据筛选](cha-kan-shu-ju-biao/shu-ju-shai-xuan.md)
-* [数据分析](shu-ju-fen-xi.md)
-  * [新建统计图表](shu-ju-fen-xi/xin-jian-tong-ji-shu-ju.md)
-  * [查看刷新图表](shu-ju-fen-xi/cha-kan-shua-xin-shu-ju.md)
-  * [分享统计图表](shu-ju-fen-xi/fen-xiang-tong-ji-shu-ju.md)
 * [案例详情](23326.md)
-* 基础字段类型
 
