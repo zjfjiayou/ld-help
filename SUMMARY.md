@@ -7,5 +7,6 @@
 * [字段类型](shu-ju-biao-she-ji/zi-duan.md)
   * [基础字段](shu-ju-biao-she-ji/zi-duan/ji-chu-zi-duan.md)
   * [计算公式](shu-ju-biao-she-ji/zi-duan/ji-suan-gong-shi.md)
+  * [工作成员](shu-ju-biao-she-ji/zi-duan/gong-zuo-cheng-yuan.md)
 * [案例详情](23326.md)
 
