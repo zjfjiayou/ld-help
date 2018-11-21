@@ -48,13 +48,5 @@
 
 ![](/assets/import35236.png)
 
-1.文件字段专门用来上传图片、图片格式（jpg\jgeg\png\gif\)、办公类（doc、docx、xls、xlsx、ppt、pptx、pdf\),音频类（mp4\)\添加已有云文件【好队友特性功能:文档，表格，思维导图】
-
-
-
-
-
-
-
-
+1.文件字段专门用来上传图片、图片格式（jpg\jgeg\png\gif\)、办公类（doc、docx、xls、xlsx、ppt、pptx、pdf\),音频类（mp4\)\添加已有云文件【好队友特性功能:文档，表格，思维导图】。
 
