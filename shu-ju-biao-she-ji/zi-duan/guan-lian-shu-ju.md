@@ -34,31 +34,19 @@
 
 将要关联的字段勾选上，引用字段输入框中会显示已选择的字段，点击删除则删除该选择的引用字段。
 
-![](/assets/import361366.png) 。 ![](/assets/import326246.png)
-
-![](/assets/import3616.png)
-
 ##### 复制字段：仅在修改关联数据字段时，复制关联表具体某个字段的值，不会跟随关联表字段值的变化更新
 
 如果需要关联的字段值不需要跟随关联字段的变化更新，则选择【复制字段】。
 
 将要关联的字段勾选上，引用字段输入框中会显示已选择的字段，点击删除则删除该选择的复制字段。
 
-![](/assets/import326211135.png) 。![](/assets/import36136111163.png)
+![](http://livedoc.oss-cn-hangzhou.aliyuncs.com/livedoc/51de5926c4e18e51f9e4ceefa2861fb9?x-oss-process=image/format,gif)
+
+#### 4.设置完成![](/assets/import6246.png)
 
 
 
-
-
-#### 4.设置完成
-
-
-
-
-
-  
-
-
+#### 
 
 
 
