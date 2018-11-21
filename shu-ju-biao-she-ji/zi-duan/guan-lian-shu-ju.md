@@ -46,11 +46,15 @@
 
 #### 5.查看数据表，并录入数据
 
-设置完成后，进入数据表，查看数据，并录入数据![](/assets/import.2351png)
+设置完成后，进入数据表，查看数据，并录入数据
 
-#### 6.关联字段数据录入演示
+![](/assets/import35.png)
 
+#### 6.关联数据表录入效果演示
 
+ 关联数据表的引用数据通过搜索设置的搜索条件，定位到要关联的数据，显示该条数据要展示的字段信息。
+
+![](http://livedoc.oss-cn-hangzhou.aliyuncs.com/livedoc/effa9d7f1e8400cbdefbf3630cc48409?x-oss-process=image/format,gif)
 
 
 
