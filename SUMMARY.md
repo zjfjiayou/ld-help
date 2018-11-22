@@ -13,4 +13,5 @@
 * [分组](fen-zu.md)
 * [数据录入](shu-ju-lu-ru.md)
 * [案例详情](23326.md)
+* [数据表权限设置](shu-ju-biao-quan-xian-she-zhi.md)
 
