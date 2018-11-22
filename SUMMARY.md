@@ -11,6 +11,6 @@
 * [关联数据](shu-ju-biao-she-ji/zi-duan/guan-lian-shu-ju.md)
 * [关联查询](guan-lian-cha-xun.md)
 * [分组](fen-zu.md)
-* [案例详情](23326.md)
 * [数据录入](shu-ju-lu-ru.md)
+* [案例详情](23326.md)
 
