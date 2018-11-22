@@ -24,7 +24,29 @@
 
 企业名称与数据表的企业名称对应。![](/assets/impor15t.3png)
 
-### 
+### 设置流程
+
+#### 1.选择想要关联的数据表
+
+![](/assets/import10221.png)
+
+#### 2.设置显示名称
+
+填写 在数据表内的显示名称
+
+![](/assets/import11223.png)--------》设置好的效果![](/assets/import31511.png)
 
 
+
+#### 3.设置关联查询的条件
+
+设置关联的查询条件
+
+![](/assets/import364326.png)，设置好查询条件，关联查询设置完成。
+
+#### 4.使用关联查询功能
+
+设置好关联查询，我们就可以查看数据了。
+
+![](http://livedoc.oss-cn-hangzhou.aliyuncs.com/livedoc/fea71d1acf018e5302c895fa61462bb9?x-oss-process=image/format,gif)
 
