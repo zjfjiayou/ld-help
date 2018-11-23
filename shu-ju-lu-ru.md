@@ -28,9 +28,21 @@
 
 数据将数据表设置收集链接，发送出去，获得二维码或者链接的人，扫码即可录入数据。使用场景【问卷调查】
 
-1
+1.点击【更多】--【数据收集】--进入【数据收集】页面
 
 ![](/assets/import351261.png)
+
+![](/assets/import11246859.png)
+
+2.创建新链接，设置链接属性
+
+![](http://livedoc.oss-cn-hangzhou.aliyuncs.com/livedoc/c7e46a6013a2b4e8f76a2ae938ccd6ef?x-oss-process=image/format,gif)
+
+## ![](/assets/import3626.png)
+
+## ![](/assets/import1124795.png)
+
+## 
 
 ## 数据查看
 
