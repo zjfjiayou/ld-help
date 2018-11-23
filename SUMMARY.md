@@ -14,6 +14,7 @@
 * [数据表权限设置](shu-ju-biao-quan-xian-she-zhi.md)
 * [新建权限组](xin-jian-quan-xian-zu.md)
 * [数据录入管理](shu-ju-lu-ru.md)
+* [数据移动端显示设置](shu-ju-yi-dong-duan-xian-shi-she-zhi.md)
+* [数据表个性化图标](qi-ta-fu-jia-gong-neng.md)
 * [案例详情](23326.md)
-* [其他附加功能](qi-ta-fu-jia-gong-neng.md)
 
