@@ -30,9 +30,9 @@
 
 #### 3.给权限组添加成员
 
-给权限组添加成员
+给权限组添加成员，配置权限。
 
-
+![](http://livedoc.oss-cn-hangzhou.aliyuncs.com/livedoc/00c026583ec6627bdc3fdce566f02fb4?x-oss-process=image/format,gif)
 
 ## 
 
